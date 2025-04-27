@@ -1,4 +1,16 @@
-# Introduction to GitHub
+<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+
+⭐️ Congratulations rose2718281! ⭐️
+
+You completed this exercise! Nice work! 🥳
+
+If you would like to practice again, you can retrace your steps below. Just press the **Start Exercise** button again.
+
+> [!TIP]
+> Mona won't grade you this time! 😉
+
+
+ # Introduction to GitHub
 _Get started using GitHub in less than an hour._
 ## Welcome
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
